@@ -1,5 +1,5 @@
 # Amaan-Sama.github.io
-<h2>Author-Amaan Sama</h2>h2
+<h2>Author-Amaan Sama</h2>
 <br>
 <h3>Programming Language-Python Django </h3>
 <br>
